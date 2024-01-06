@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://media.gettyimages.com/photos/falling-golden-coins-picture-id505027798?b=1&k=20&m=505027798&s=170667a&w=0&h=kLA_vsX4NQCd-sMaV6k7vvP4GPu0olzDZ0OidME_Me8=);
+    background-size: 98.5%;
+    display: block;
+    margin: auto;
+}
+img{
+ display: block;
+ margin: auto;
+}
+h1{
+    border: 10%;
+    background-color: white;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+.btn {
+    background-color: #305fe0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 44%;
+    
+
+}
